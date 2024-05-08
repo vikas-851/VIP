@@ -88,7 +88,7 @@ CLEANMODE_DELETE_MINS = int(
 # Get your pyrogram v2 session from @VIP_STRING_ROBOT on Telegram
 STRING1 = getenv("STRING_SESSION", "BQFM7awACVUGTBCv7gPFekDKPXrQFP87si6JctUpd_dnmn39YAfWPDluAc0ijgF1glbqAoWRhKZsmaWEW06FIvDosz9OADx4xaudQNIoaa7JrVKylVrl88FEbC4kQxtkrZdQ_qshBTOcoL7X7lk-iOb-Q_oR1KcHqVjoS0MQa5yigLDuGoPd_Afol43vTM0sRzZcCxMYV9-ZxAiZzSSYRe9JFFuBTB5o0aloYRMBFvRlRPbuG9PNOHGEJf7Y5Vv_ODcbX2CE1V3kF-E2KEJMA5GmbHZ26HNlF4PWO5Xylu_KyynppokWRtmAcLj_irGPsq4bs8wxHnzLALwM35PuvKxXs-A60wAAAAF3lIe5AA")
 STRING2 = getenv("STRING_SESSION2", "BQFM7awAE267LJ7Ula4AUiM2h-FW9rZ956-QoXcEb_09jtVD0T06nGGWYfDvw_jqEV1MEgBB-ZkjMlF9fIqsg9kZc2uL81dtcMsAp1XjUpGT-WCdt2Vyoxgxa4P2Vh6DkMO_n1all1CYF803nsXb4gyiIEFedMLBtSNix5sqLQu5UTW3BOTEj8cAhCr0t7YZVZS7_TBC2gd2m5xHhnGd-Uiu3uq34GCwwhObTdhsp0m3WXzTCOcKHT0ixoJNl2y9hsBPA1Yjeg9pcvjAOGOqHEewBHNdE9EeC6fDWhL50Z_hbDCu4aHO-zKTG7lc75t7Kfqg9MuDaB5Wji52LdMNBT3UMSipqQAAAAGgfkg-AA")
-STRING3 = getenv("STRING_SESSION3", None)
+STRING3 = getenv("STRING_SESSION3", "BQFM7awAMZ400JYh7Y-XA7YmNt1Gv6odLd0hYni1-GXnfb5VDD7M2b3hnzUxVRKClwMNmx2EUUlzDDzPL5XId_ZBfc1EeyMVLi9uLq1aYCC2C1VsM2Z1HPtQrryoJBHorr8MdtZhF_WUAFoDGvPn6JmiFS8pWbAReeqKAWHh1wcaotGaMF0E8zrK0NIrvNPlbYGYRS5rxBpnNShjpSMEEiPx53H7hyEW8TBwtni4qjwlhCNeCNRbSHUPH1Y9wgD9vqgA3kiL0Yn4YCPqwH_j0z1mbnL781BSkIG3Py5QDXlap2OSLXHMaqGCAq2cBUiTM-dFoWdEGB34VWmQfQ_Aw6DEIBY1cgAAAAGWf-cBAA")
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
 
@@ -114,10 +114,10 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/eb539f76b0ffd4aea1273.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/eb539f76b0ffd4aea1273.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/b5eabe20a138c979b87a3.jpg"
