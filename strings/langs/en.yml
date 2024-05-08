@@ -92,17 +92,14 @@ admin_46 : "🎧 Voicechat Muted by {}!"
 admin_47 : "Music is already unmuted."
 admin_48 : "🎧 Voicechat Unmuted by {}!"
 
-start_1 : "{0} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.\n\n<b>✫ ᴜᴘᴛɪᴍᴇ :</b> {1}"
-start_2 : "**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs + ᴄʜᴀɴɴᴇʟs ᴠᴄ.**\n\n**🎧 ᴘʟᴀʏ + ᴠᴘʟᴀʏ + ᴄᴘʟᴀʏ + ᴄᴠᴘʟᴀʏ 🎧**\n\n**➥ sᴜᴘᴘᴏʀᴛᴇᴅ ᴡᴇʟᴄᴏᴍᴇ - ʟᴇғᴛ ɴᴏᴛɪᴄᴇ, ᴛᴀɢᴀʟʟ, ᴠᴄᴛᴀɢ, ʙᴀɴ - ᴍᴜᴛᴇ, sʜᴀʏʀɪ, ʟᴜʀɪᴄs, sᴏɴɢ - ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ, ᴇᴛᴄ... **\n\n**🔐ᴜꜱᴇ » /help ᴛᴏ ᴄʜᴇᴄᴋ ғᴇᴀᴛᴜʀᴇs.**\n**⚜ᴜꜱᴇ » /clone ᴛᴏ ʜᴏsᴛ ʏᴏᴜʀ ʙᴏᴛ.**\n\n🏓 Mʏ ʀᴇᴘᴏ ➪ **[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC) 💞**\n📡 ᴍᴀᴅᴇ ʙʏ ➪ **[ᴠɪᴘ ✯ ʙᴏʏ](https://t.me/the_vip_boy)** 💞"
-start_3 : "ʜᴇʏ {0},\nᴛʜɪs ɪs {1}\n\nᴛʜᴀɴᴋs ғᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ ɪɴ {2}, {3} ᴄᴀɴ ɴᴏᴡ ᴩʟᴀʏ sᴏɴɢs ɪɴ ᴛʜɪs ᴄʜᴀᴛ."
-start_4 : "🎄 <b>sᴜᴘᴇʀɢʀᴏᴜᴘ ɴᴇᴇᴅᴇᴅ</b> 🎄\n\nᴘʟᴇᴀsᴇ ᴄᴏɴᴠᴇʀᴛ ʏᴏᴜʀ <b>ɢʀᴏᴜᴘ</b> ᴛᴏ <b>sᴜᴘᴇʀɢʀᴏᴜᴘ</b> ᴀɴᴅ ᴛʜᴇɴ ᴀᴅᴅ ᴍᴇ ᴀɢᴀɪɴ.\n\n<b>ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ sᴜᴘᴇʀɢʀᴏᴜᴘ ?</b>\n- ᴍᴀᴋᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ's ᴄʜᴀᴛ ʜɪsᴛᴏʀʏ <b>ᴠɪsɪʙʟᴇ</b> ᴏɴᴄᴇ."
-start_5 : "<b>↝ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ ↜</b>\n\nᴛʜɪs ᴄʜᴀᴛ ɪs ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴏɴ {0} ᴅᴀᴛᴀʙᴀsᴇ.\nʀᴇǫᴜᴇsᴛ ᴀ <a href={1}>sᴜᴅᴏ ᴜsᴇʀ</a> ᴛᴏ ᴜɴʙʟᴀᴄᴋʟɪsᴛ ʏᴏᴜʀ ᴄʜᴀᴛ ᴏʀ ᴠɪsɪᴛ <a href={2}>sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ.</a>"
-start_6 : "😲 <b>ᴛʀᴀᴄᴋ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</b> 😲\n\n📌 <b>ᴛɪᴛʟᴇ :</b> {0}\n\n⏳ <b>ᴅᴜʀᴀᴛɪᴏɴ :</b> {1} ᴍɪɴᴜᴛᴇs\n👀 <b>ᴠɪᴇᴡs :</b> <code>{2}</code>\n⏰ <b>ᴩᴜʙʟɪsʜᴇᴅ ᴏɴ :</b> {3}\n📎 <b>ᴄʜᴀɴɴᴇʟ :</b> <a href={4}>{5}</a>\n\n<u><b>🥀 sᴇᴀʀᴄʜ ᴩᴏᴡᴇʀᴇᴅ ʙʏ {6}</b></u>"
+start_1: "{0} is alive baby.\n\n<b>✫ Uptime :</b> {1}"
+start_2: "Hey, I'm Zero Two, an advanced music player bot for Telegram groups + channels VC.\n\n🎧 Play + Vplay + Cplay + CVplay 🎧\n\n➥ Supported welcome - Left notice, Tagall, Vctag, Ban - Mute, Shayri, Lyrics, Song - Video download, etc...\n\n🔐Use » /help to check features.\n⚜Use » /clone to host your bot.\n\n🏓 My repo ➪ **[Click here](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC) 💞**\n📡 Made by ➪ **[VIP ✯ Boy](https://t.me/the_vip_boy)** 💞"
+start_3: "Hey {0},\nthis is {1}\n\nThanks for adding me in {2}, {3} can now play songs in this chat."
+start_4: "🎄 <b>Supergroup needed</b> 🎄\n\nPlease convert your <b>group</b> to <b>supergroup</b> and then add me again.\n\n<b>How to make supergroup ?</b>\n- Make your group's chat history <b>visible</b> once."
+start_5: "<b>↝ Blacklisted chat ↜</b>\n\nThis chat is blacklisted on {0} database.\nRequest a <a href={1}>sudo user</a> to unblacklist your chat or visit <a href={2}>support chat.</a>"
+start_6: "😲 <b>Track information</b> 😲\n\n📌 <b>Title :</b> {0}\n\n⏳ <b>Duration :</b> {1} minutes\n👀 <b>Views :</b> <code>{2}</code>\n⏰ <b>Published on :</b> {3}\n📎 <b>Channel :</b> <a href={4}>{5}</a>\n\n<u><b>🥀 Search powered by {6}</b></u>"
 
-help_1 : "ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴄᴀᴛᴇɢᴏʀʏ ғᴏʀ/n ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴɴᴀ ɢᴇᴛ ʜᴇʟᴩ./n
-ᴀsᴋ ʏᴏᴜʀ ᴅᴏᴜʙᴛs ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ] (https://t.me/Deadly_Community) 
-
-ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ : "
+help_1: "Choose the category for\nwhich you wanna get help.\nAsk your doubts at [support chat](https://t.me/Deadly_Community).\n\nAll commands can be used with: "
 help_2 : "ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴍʏ ʜᴇʟᴘ ᴍᴇɴᴜ ɪɴ ʏᴏᴜʀ ᴘᴍ."
 
 lang_1 : "» ᴘʟᴇᴀsᴇ ᴄʜᴏᴏsᴇ ᴛʜᴇ ʟᴀɴɢᴜᴀɢᴇ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴɴᴀ sᴇᴛ ᴀs ᴛʜɪs ɢʀᴏᴜᴘ's ᴅᴇғᴀᴜʟᴛ ʟᴀɴɢᴜᴀɢᴇ :"
