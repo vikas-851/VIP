@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "21818796"))
 API_HASH = getenv("API_HASH", "7873fd3de9343c2a52ad75aacd0e9f13")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "6304832083:AAEFQWyDtJdMMh6tgOXlFNaNzmbBt_eQsiY")
+BOT_TOKEN = getenv("BOT_TOKEN", "BQFM7awACVUGTBCv7gPFekDKPXrQFP87si6JctUpd_dnmn39YAfWPDluAc0ijgF1glbqAoWRhKZsmaWEW06FIvDosz9OADx4xaudQNIoaa7JrVKylVrl88FEbC4kQxtkrZdQ_qshBTOcoL7X7lk-iOb-Q_oR1KcHqVjoS0MQa5yigLDuGoPd_Afol43vTM0sRzZcCxMYV9-ZxAiZzSSYRe9JFFuBTB5o0aloYRMBFvRlRPbuG9PNOHGEJf7Y5Vv_ODcbX2CE1V3kF-E2KEJMA5GmbHZ26HNlF4PWO5Xylu_KyynppokWRtmAcLj_irGPsq4bs8wxHnzLALwM35PuvKxXs-A60wAAAAF3lIe5AA")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://tanjiro1564:tanjiro1564@cluster0.pp5yz4e.mongodb.net/?retryWrites=true&w=majority")
@@ -20,7 +20,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 16000))
 
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID", "-1001875834087"))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001875834087")
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001875834087")) 
 
 # Get this value from  on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", "5932230962"))
@@ -33,15 +33,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/THE-VIP-BOY-OP/VIP-MUSIC",
+    "https://github.com/vikas-851/VIP",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VIP_CREATORS")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TG_FRIENDSS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DEADLY_NETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Deadly_Community")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "100"))
@@ -86,7 +86,7 @@ CLEANMODE_DELETE_MINS = int(
 )  # Remember to give value in Seconds
 
 # Get your pyrogram v2 session from @VIP_STRING_ROBOT on Telegram
-STRING1 = getenv("STRING_SESSION", " BQFM7awAMZ400JYh7Y-XA7YmNt1Gv6odLd0hYni1-GXnfb5VDD7M2b3hnzUxVRKClwMNmx2EUUlzDDzPL5XId_ZBfc1EeyMVLi9uLq1aYCC2C1VsM2Z1HPtQrryoJBHorr8MdtZhF_WUAFoDGvPn6JmiFS8pWbAReeqKAWHh1wcaotGaMF0E8zrK0NIrvNPlbYGYRS5rxBpnNShjpSMEEiPx53H7hyEW8TBwtni4qjwlhCNeCNRbSHUPH1Y9wgD9vqgA3kiL0Yn4YCPqwH_j0z1mbnL781BSkIG3Py5QDXlap2OSLXHMaqGCAq2cBUiTM-dFoWdEGB34VWmQfQ_Aw6DEIBY1cgAAAAGWf-cBAA")
+STRING1 = getenv("STRING_SESSION", "BQFM7awACVUGTBCv7gPFekDKPXrQFP87si6JctUpd_dnmn39YAfWPDluAc0ijgF1glbqAoWRhKZsmaWEW06FIvDosz9OADx4xaudQNIoaa7JrVKylVrl88FEbC4kQxtkrZdQ_qshBTOcoL7X7lk-iOb-Q_oR1KcHqVjoS0MQa5yigLDuGoPd_Afol43vTM0sRzZcCxMYV9-ZxAiZzSSYRe9JFFuBTB5o0aloYRMBFvRlRPbuG9PNOHGEJf7Y5Vv_ODcbX2CE1V3kF-E2KEJMA5GmbHZ26HNlF4PWO5Xylu_KyynppokWRtmAcLj_irGPsq4bs8wxHnzLALwM35PuvKxXs-A60wAAAAF3lIe5AA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
