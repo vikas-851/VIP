@@ -5,7 +5,7 @@ from VIPMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "+-aIeaQl5YOFmNGM1"
+MUST_JOIN = "-aIeaQl5YOFmNGM1"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
